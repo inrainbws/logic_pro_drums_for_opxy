@@ -2,6 +2,8 @@
 
 Export drum kits from Logic Pro / Garage Band's Drum Kit Designer to Teenage Engineering OP-XY format. I built this tool because I wanted more acounstic drum sounds on my OP-XY.
 
+<img src="./banner.jpg">
+
 ## Overview
 
 This tool provides a three-step workflow to convert Logic Pro drum kits into OP-XY compatible drum kit presets:
